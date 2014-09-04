@@ -16,7 +16,7 @@ bower install commons-cloud --save
 CommonsCloud depends on Angular's ngRoute and ngResource libraries. Both scripts must be included after Angular and before CommonsCloud.
 
 ```html
-<script src="/bower_components/angular/angular.js"></script>
+<script src="bower_components/angular/angular.js"></script>
 <script src="bower_components/angular-resource/angular-resource.js"></script>
 <script src="bower_components/angular-route/angular-route.js"></script>
 <script src="bower_components/commons-cloud/commons-cloud.js"></script>
